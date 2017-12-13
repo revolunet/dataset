@@ -48,7 +48,7 @@ If you are planning on supporting IE, include the following json2.js library as 
 ## Documentation
 
 The full documentation set can be found here:
-[http://misoproject.com/dataset/docs.html](http://misoproject.com/dataset/docs.html)
+[http://misoproject.com/dataset](http://misoproject.com/dataset)
 
 Miso.Dataset works in the browser and in Node.js.
 
@@ -75,7 +75,7 @@ var ds = new Miso.Dataset...
 ### API
 
 For a detailed API listing, see here:
-[http://misoproject.com/dataset/api.html](http://misoproject.com/dataset/api.html)
+[http://misoproject.com/dataset/api/index.html](http://misoproject.com/dataset/api/index.html)
 
 ### Examples
 
